@@ -1,7 +1,7 @@
 <p align="left">
     <img src="https://telegra.ph/file/8dd95173db909b52366d9.jpg"
 </p>
-<h1 align="left">Alya Bot</h1>
+<h1 align="left">Dens Bot</h1>
 
 > Original script dari [`Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 
@@ -34,8 +34,8 @@
 * [`ariffb25`](https://github.com/ariffb25)
 
 ## Social
-* Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
-* Instagram [Here](https://instagram.com/alya.xzy)
+* Group Support [Here](https://chat.whatsapp.com/HRXooNlRwNYFgKnG6jCM1T)
+* Instagram [Here](https://instagram.com/denisitepuu)
 
 	
 </details>
